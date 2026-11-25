@@ -21,6 +21,5 @@ I build robots and the software that runs them. Student at ASCTE (Alabama School
 | [**my-llm**](https://github.com/Built-By-Gio/my-llm) | Small character-level GPT in PyTorch, trained on Tiny Shakespeare. |
 | [**blackjack**](https://github.com/Built-By-Gio/blackjack) | Blackjack strategy simulation with expected-value play and Kelly bet sizing. |
 | [**pine-indicators**](https://github.com/Built-By-Gio/pine-indicators) | TradingView Pine Script v6 indicator: Coil Hunter Suite. |
-| [**FTC BioBuzz**](https://github.com/FTC-Steel-team/BioBuzz_2026-2027) | Team code. I wrote the TeleOp and Auto. |
 
 Python · Arduino C++ · Java · Pine Script · KiCad · Fusion 360 · Blender · Bambu A1
