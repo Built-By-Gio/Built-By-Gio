@@ -2,7 +2,7 @@
 
 I build robots and the software that runs them. Student at ASCTE (Alabama School of Cyber Technology and Engineering).
 
-**Robotics:** FTC 32355 CyberSteel programmer · State Beta Robotics champion (2025, 2026) · #10 Beta Nationals
+**Robotics:** State Beta Robotics champion (2025, 2026) · #10 Beta Nationals
 
 ## Builds
 
@@ -17,7 +17,7 @@ I build robots and the software that runs them. Student at ASCTE (Alabama School
 | [**Joint Space**](https://github.com/Built-By-Gio/joint-space) | Interactive course on hexapod leg kinematics, built on VANTA's leg dimensions. |
 | [**Inbox Lookout**](https://github.com/Built-By-Gio/inbox-lookout) | Chrome extension that sorts unread Gmail with Chrome's on-device model and learns from clicks. |
 | [**yt-transcripts**](https://github.com/Built-By-Gio/yt-transcripts) | Command-line tool that saves YouTube captions as text files. |
-| [**small-builds**](https://github.com/Built-By-Gio/small-builds) | Arduino and Raspberry Pi side projects: sonar radar, keypad lock, servo control and more. |
+| [**small-builds**](https://github.com/Built-By-Gio/small-builds) | Arduino and Raspberry Pi side projects: sonar radar, servo control, dino auto-jumper, Pi camera detection. |
 | [**my-llm**](https://github.com/Built-By-Gio/my-llm) | Small character-level GPT in PyTorch, trained on Tiny Shakespeare. |
 | [**blackjack**](https://github.com/Built-By-Gio/blackjack) | Blackjack strategy simulation with expected-value play and Kelly bet sizing. |
 | [**pine-indicators**](https://github.com/Built-By-Gio/pine-indicators) | TradingView Pine Script v6 indicator: Coil Hunter Suite. |
