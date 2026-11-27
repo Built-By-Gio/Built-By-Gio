@@ -10,7 +10,7 @@ I build robots and the software that runs them. Student at ASCTE (Alabama School
 |---|---|
 | [**VANTA**](https://github.com/Built-By-Gio/vanta-hexapod) | 18-servo hexapod. 3D-printed, solder-free, ESP32-S3 + 2× PCA9685, driven from an Xbox controller. Built and walking. |
 | [**180°**](https://github.com/Built-By-Gio/robot-arm-180) | 6-DOF arm on an Arduino with a browser controller, pose sequencer and OpenCV camera calibration. |
-| [**Robot Arm Tank**](https://github.com/Built-By-Gio/robot-arm-tank) | 4WD tank with a 5-DOF arm and a Wi-Fi pan-tilt camera, modelled in CadQuery. Design only so far. |
+| [**Robot Arm Tank**](https://github.com/Built-By-Gio/robot-arm-tank) | 4WD tank carrying a scaled-down DBI P-P 1.2 robot arm and a Wi-Fi camera on a folding mast. Designed, not built yet. |
 | [**Light Board**](https://github.com/Built-By-Gio/light-board) | My first PCB. Simon Says on an Arduino Nano, KiCad → JLCPCB → hand-soldered. |
 | [**NexusOS**](https://github.com/Built-By-Gio/nexus-os) | Windows desktop command center with a local AI assistant (Qwen via Ollama). Electron + React. |
 | [**setupdoctor**](https://github.com/Built-By-Gio/setupdoctor) | `pip install setupdoctor`. Reads what a repo needs and tells you how to fix your machine. |
